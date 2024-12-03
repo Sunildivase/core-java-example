@@ -9,6 +9,8 @@ public class InstanceOf {
       Integer length = 23;
       Double temperature = 36.7;
 
+        // instanceof is used to check the datatypes are match or not
+
       if(city instanceof String){
           System.out.println("type of city is String");
       }
