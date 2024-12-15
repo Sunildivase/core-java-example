@@ -1,6 +1,6 @@
 package patterns;
 
-public class WhileUsing {
+public class WhileUsing1 {
 
     public static void main(String[] args) {
         int i=0;
