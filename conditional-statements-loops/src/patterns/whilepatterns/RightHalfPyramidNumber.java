@@ -1,6 +1,14 @@
-package patterns;
+package patterns.whilepatterns;
 
-public class WhileUsing2 {
+public class RightHalfPyramidNumber {
+    //pseudo code
+    // print pattern
+    // 1
+    // 12
+    // 123
+    // 1234
+    // 12345
+
     public static void main(String[] args) {
 
         int i =1;
