@@ -11,7 +11,7 @@ public class RightHalfPyramidNumber {
 
     public static void main(String[] args) {
 
-        int i =1;
+       int i=1;
         do{
             int innercounter=1;
               do{
