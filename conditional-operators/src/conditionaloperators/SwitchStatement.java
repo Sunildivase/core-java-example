@@ -57,6 +57,9 @@ public class SwitchStatement {
             case 7:
                 System.out.println("saturday");
                 break;
+            default:
+                System.out.println("you entered something wrong");
+                break;
         }
     }
 }
