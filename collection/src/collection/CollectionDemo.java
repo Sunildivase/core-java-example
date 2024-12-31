@@ -16,6 +16,6 @@ public class CollectionDemo {
     // 3.map
 
     // list:-
-    // syntax ex: List students = new ArrayList();
+    // syntax ex: ArrayList students = new ArrayList();
 
 }
