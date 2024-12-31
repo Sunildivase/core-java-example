@@ -18,8 +18,4 @@ public class CollectionDemo {
     // list:-
     // syntax ex: List students = new ArrayList();
 
-
-
-
-
 }
