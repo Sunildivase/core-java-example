@@ -141,7 +141,7 @@ public class MethodsOfList {
         System.out.println("size of city after clear: "+newCityList.size());
 
         System.out.println("---------------------------------------------------------------------------");
-        
+
     }
 
 
