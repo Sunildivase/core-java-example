@@ -51,7 +51,7 @@ public class MethodsOfList {
         // addall() method - we are add new lists inside existing list
 
         boolean isOldListAdded = Collections.addAll(cities,"jaipur","chennai");
-        // here we use Collections is Class
+        // here we use Collections is Class-utility class - it provides functionalities related to framework
         // collection is interface
 
         System.out.println("old list is: " + (isOldListAdded ? "" : "Not")+ "updated with new cities");
@@ -67,7 +67,7 @@ public class MethodsOfList {
 
         System.out.println("-------------------------------------------------------------------------");
 
-        
+
 
     }
 }
