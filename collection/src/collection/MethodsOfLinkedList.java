@@ -19,6 +19,6 @@ public class MethodsOfLinkedList {
         }
 
         System.out.println("list is updated: "+flowers);
-        
+
     }
 }
