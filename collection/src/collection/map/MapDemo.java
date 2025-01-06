@@ -106,5 +106,6 @@ public class MapDemo {
         System.out.println("after clear value: "+testMap);
         System.out.println("size: "+testMap.size());
 
+
     }
 }
