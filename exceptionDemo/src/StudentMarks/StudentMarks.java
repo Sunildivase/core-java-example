@@ -9,6 +9,8 @@ public class StudentMarks {
             studentMarks.marks();
         } catch (InvalidMarkException e) {
             System.err.println(e.getMessage());
+        }finally {
+            System.out.println("finally block executed");
         }
 
         studentMarks.displayMarks();
