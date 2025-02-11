@@ -1,4 +1,4 @@
-package Abstraction;
+package Abstraction.ShapeExample;
 
 public abstract class ShapeService {
 

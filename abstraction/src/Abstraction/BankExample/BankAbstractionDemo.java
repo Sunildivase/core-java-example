@@ -1,4 +1,4 @@
-package Abstraction;
+package Abstraction.BankExample;
 
 public class BankAbstractionDemo {
     public static void main(String[] args) {

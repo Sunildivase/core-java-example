@@ -1,6 +1,6 @@
-package Abstraction;
+package Abstraction.BankExample;
 
-public class SBIBankService extends BankService{
+public class SBIBankService extends BankService {
 
 
     @Override

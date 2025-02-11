@@ -1,6 +1,6 @@
-package Abstraction;
+package Abstraction.ShapeExample;
 
-public class SquareShapeService extends ShapeService{
+public class SquareShapeService extends ShapeService {
     @Override
     public void draw() {
         System.out.println("square is draw");

@@ -1,4 +1,4 @@
-package Abstraction;
+package Abstraction.ShapeExample;
 
 public class CircleShapeService extends ShapeService {
 
