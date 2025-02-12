@@ -10,6 +10,7 @@ public class AbstractionVsInterface {
          //    - can have construction.
          //    - can have single inheritance
 
+
 //    Interface:-
         //     - no any method implementation
         //     - only abstract methods
@@ -17,5 +18,6 @@ public class AbstractionVsInterface {
         //     - only have public access modifiers.
         //     - can not have constructions.
         //     - can have multiple inheritance
+
 }
 
