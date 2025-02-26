@@ -1,4 +1,4 @@
-package lambdaExpression;
+package lambdaExpression.example2;
 
 public class StringLambdaDemo {
     public static void main(String[] args) {

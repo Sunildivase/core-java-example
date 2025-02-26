@@ -1,4 +1,4 @@
-package lambdaExpression;
+package lambdaExpression.example2;
 
 @FunctionalInterface
 public interface StringAppender {

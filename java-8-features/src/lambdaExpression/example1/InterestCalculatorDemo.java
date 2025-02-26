@@ -1,4 +1,4 @@
-package lambdaExpression;
+package lambdaExpression.example1;
 
 public class InterestCalculatorDemo {
 
@@ -6,8 +6,8 @@ public class InterestCalculatorDemo {
 
 //        InterestCalculator interestCalculator = new InterestCalculatorImpl();
 
-       InterestCalculator interestCalculator = (principalAmount,interestRate,years)->
-             principalAmount*(interestRate/100)*years;
+       InterestCalculator interestCalculator = (principalAmount, interestRate, years)->
+             principalAmount * (interestRate/100) * years;
 
        double calculatedValue = interestCalculator.calculate(100000,9.6,3);
         System.out.println("calculated interest value: "+ calculatedValue);

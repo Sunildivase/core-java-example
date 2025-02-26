@@ -1,4 +1,4 @@
-package lambdaExpression;
+package lambdaExpression.example1;
 
 @FunctionalInterface
 public interface InterestCalculator {
