@@ -1,8 +1,6 @@
-package streamApi;
+package streamApi.example1;
 
 import java.util.*;
-import java.util.function.Function;
-import java.util.stream.Collectors;
 
 public class StreamDemo {
 
