@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstraction/abstraction.iml" filepath="$PROJECT_DIR$/abstraction/abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/access-identifier/access-identifier.iml" filepath="$PROJECT_DIR$/access-identifier/access-identifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators/addition/addition.iml" filepath="$PROJECT_DIR$/operators/addition/addition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection/collection.iml" filepath="$PROJECT_DIR$/collection/collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators-using-standards/src/conditional-operators/conditional-operators.iml" filepath="$PROJECT_DIR$/operators-using-standards/src/conditional-operators/conditional-operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditional-operators/conditional-operators2.iml" filepath="$PROJECT_DIR$/conditional-operators/conditional-operators2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditional-statements-loops/conditional-statements-loops.iml" filepath="$PROJECT_DIR$/conditional-statements-loops/conditional-statements-loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/constructor/constructor.iml" filepath="$PROJECT_DIR$/constructor/constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/core-java-example.iml" filepath="$PROJECT_DIR$/.idea/core-java-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators/division/division.iml" filepath="$PROJECT_DIR$/operators/division/division.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptionDemo/exceptionDemo.iml" filepath="$PROJECT_DIR$/exceptionDemo/exceptionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-handing-and-io-package/file-handing-and-io-package.iml" filepath="$PROJECT_DIR$/file-handing-and-io-package/file-handing-and-io-package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators-using-standards/src/increment-decrement-operators/increment-decrement-operators.iml" filepath="$PROJECT_DIR$/operators-using-standards/src/increment-decrement-operators/increment-decrement-operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface-example/interface-example.iml" filepath="$PROJECT_DIR$/interface-example/interface-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-11-features/java-11-features.iml" filepath="$PROJECT_DIR$/java-11-features/java-11-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-21-fetaures/java-21-fetaures.iml" filepath="$PROJECT_DIR$/java-21-fetaures/java-21-fetaures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-8-features/java-8-features.iml" filepath="$PROJECT_DIR$/java-8-features/java-8-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentals-second/java-fundamenal-student-registration2/java-fundamenal-student-registration2.iml" filepath="$PROJECT_DIR$/java-fundamentals-second/java-fundamenal-student-registration2/java-fundamenal-student-registration2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentals-second/java-fundamentals-E-commerce-product-review-2/java-fundamentals-E-commerce-product-review-2.iml" filepath="$PROJECT_DIR$/java-fundamentals-second/java-fundamentals-E-commerce-product-review-2/java-fundamentals-E-commerce-product-review-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentals-first/java-fundamentals-book-store-inventory/java-fundamentals-book-store-inventory.iml" filepath="$PROJECT_DIR$/java-fundamentals-first/java-fundamentals-book-store-inventory/java-fundamentals-book-store-inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentals-first/java-fundamentals-e-commerce-product-review/java-fundamentals-e-commerce-product-review.iml" filepath="$PROJECT_DIR$/java-fundamentals-first/java-fundamentals-e-commerce-product-review/java-fundamentals-e-commerce-product-review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentals-first/java-fundamentals-event-management/java-fundamentals-event-management.iml" filepath="$PROJECT_DIR$/java-fundamentals-first/java-fundamentals-event-management/java-fundamentals-event-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentals-second/java-fundamentals-event-management2/java-fundamentals-event-management2.iml" filepath="$PROJECT_DIR$/java-fundamentals-second/java-fundamentals-event-management2/java-fundamentals-event-management2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentals-first/java-fundamentals-job-application/java-fundamentals-job-application.iml" filepath="$PROJECT_DIR$/java-fundamentals-first/java-fundamentals-job-application/java-fundamentals-job-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentals-second/java-fundamentals-job-application2/java-fundamentals-job-application2.iml" filepath="$PROJECT_DIR$/java-fundamentals-second/java-fundamentals-job-application2/java-fundamentals-job-application2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentals-first/java-fundamentals-persondetails/java-fundamentals-persondetails.iml" filepath="$PROJECT_DIR$/java-fundamentals-first/java-fundamentals-persondetails/java-fundamentals-persondetails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentals-first/java-fundamentals-studentregistration/java-fundamentals-studentregistration.iml" filepath="$PROJECT_DIR$/java-fundamentals-first/java-fundamentals-studentregistration/java-fundamentals-studentregistration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators/multiplication/multiplication.iml" filepath="$PROJECT_DIR$/operators/multiplication/multiplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreadig/multithreadig.iml" filepath="$PROJECT_DIR$/multithreadig/multithreadig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/object-oriented-programming/object-oriented-programming.iml" filepath="$PROJECT_DIR$/object-oriented-programming/object-oriented-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators-using-standards/operators-using-standards.iml" filepath="$PROJECT_DIR$/operators-using-standards/operators-using-standards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overriding-overloading-example/overriding-overloading-example.iml" filepath="$PROJECT_DIR$/overriding-overloading-example/overriding-overloading-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators-using-standards/src/relational-operator/relational-operator.iml" filepath="$PROJECT_DIR$/operators-using-standards/src/relational-operator/relational-operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialization-deserialization/serialization-deserialization.iml" filepath="$PROJECT_DIR$/serialization-deserialization/serialization-deserialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static-inner-class/static-inner-class.iml" filepath="$PROJECT_DIR$/static-inner-class/static-inner-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string-string-builder-string-buffer/string-string-builder-string-buffer.iml" filepath="$PROJECT_DIR$/string-string-builder-string-buffer/string-string-builder-string-buffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators/substraction/substraction.iml" filepath="$PROJECT_DIR$/operators/substraction/substraction.iml" />
+    </modules>
+  </component>
+</project>
