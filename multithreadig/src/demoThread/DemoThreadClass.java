@@ -1,3 +1,5 @@
+package demoThread;
+
 public class DemoThreadClass {
 
     public static void main(String[] args) {
