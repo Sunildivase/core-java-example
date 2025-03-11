@@ -26,9 +26,9 @@ public class CustomerAccount {
         System.out.println("going to deposit amount");
         this.balance += amount;
         System.out.println("deposit completed");
-        notify();
+        notifyAll();
 
     }
 
-    
+
 }
